@@ -1,2 +1,7 @@
-package test;public class CalendarTest {
+package test;
+
+public class CalendarTest {
+    String startDate;
+    String endDate;
 }
+
